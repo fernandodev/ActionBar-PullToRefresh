@@ -1,6 +1,4 @@
-# PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
-
-* * *
+* Fixed problem with Android API 20 - Android L
 
 # ActionBar-PullToRefresh
 
